@@ -9,3 +9,4 @@
 
 rootProject.name = 'Java-course-codeex'
 include('app')
+include('hw01-gradle')
